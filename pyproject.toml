@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "jira-openai-bot"
+version = "0.1.0"
+description = ""
+authors = ["None"]
+readme = "README.md"
+packages = [{include = "*", from="app"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+langchain-openai = "^0.0.8"
+langchain = "^0.1.12"
+openapi-schema-pydantic = "^1.2.4"
+python-dotenv = "^1.0.1"
+pydantic = "1.10.9"
+openapi-pydantic = "^0.4.0"
+pyyaml = "^6.0.1"
+langserve = {extras = ["server"], version = "^0.0.51"}
+python-decouple = "^3.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
