@@ -1,8 +1,8 @@
 ## jira-openai-bot
 
-Set up your python environment first 
+![Next][chatGpt]![Next][python]
 
-
+ 
 
 | Title                                  | Link 2                                                                                                                                     |
 |----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -13,3 +13,6 @@ Set up your python environment first
 | JIRA DOC                              | https://developer.atlassian.com/cloud/jira/platform/rest/v3/api-group-issue-search/#api-rest-api-3-search-get                                                                                                |
 
 For running the server :  poetry run python app/server.py
+
+[chatGpt]: https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white
+[python]: https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white
