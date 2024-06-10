@@ -2,7 +2,15 @@
 
 ![Next][chatGpt]![Next][python]
 
- 
+This repository demonstrates how to integrate OpenAI's language model with LangChain to interact with Jira. The integration allows for automated ticket creation, updates, and retrieval using natural language processing capabilities.
+
+Prerequisites
+
+Python 3.9+
+Jira Account: Ensure you have access to a Jira account and relevant API keys.
+OpenAI API Key: Required for accessing OpenAI’s language model.
+LangChain Library: Install via pip.
+
 
 | Title                                  | Link 2                                                                                                                                     |
 |----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
