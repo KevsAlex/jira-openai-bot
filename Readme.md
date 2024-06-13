@@ -28,5 +28,12 @@ For running the server :
    poetry run python app/server.py
 ```
 
+## Example call :
+```curl 
+   curl --location 'localhost:8000/chat?query=PlaceQueryHere'
+```
+
+
+
 [chatGpt]: https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white
 [python]: https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white
