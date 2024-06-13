@@ -9,6 +9,9 @@ This repository demonstrates how to integrate OpenAI's language model with LangC
 
 ![demoPostman](images/demoPostman.png)
 
+## Post from medium
+https://medium.com/@KevsAlex/integrating-openai-with-private-apis-44ca1c7f088f
+
 ## Prerequisites
 
 Python 3.9+
